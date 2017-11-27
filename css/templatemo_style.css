@@ -674,6 +674,7 @@ hr {
   -webkit-transition: all 200ms ease-in-out;
   -moz-transition: all 200ms ease-in-out;
   transition: all 200ms ease-in-out;
+
 }
 .team-member .member-thumb .team-overlay h3 {
   font-size: 18px;
@@ -682,7 +683,7 @@ hr {
   display: inline-block;
   padding-bottom: 10px;
   border-bottom: 1px solid white;
-  margin-top: 64px;
+  margin-top: 120px;
 }
 .team-member .member-thumb .team-overlay span {
   text-transform: uppercase;
@@ -805,4 +806,8 @@ body, p, div, h1, h2, h3, h4, h5, h6 {
     margin: auto;
     display: block;
     width: 350px;
+}
+
+.margem-top {
+    margin-top: 120px;
 }
